@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#4ecdc4"
+backgroundColor = "#0b1220"
+secondaryBackgroundColor = "#111b2b"
+textColor = "#ecf3ff"
+linkColor = "#7ee7d9"
+borderColor = "#1d2d45"
+baseRadius = "12px"
+showSidebarBorder = true
+
+[server]
+headless = true
+port = 8501
+
+[client]
+showErrorDetails = false
