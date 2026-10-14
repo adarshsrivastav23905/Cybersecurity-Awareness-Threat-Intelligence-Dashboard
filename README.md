@@ -18,7 +18,7 @@ This project presents a security-operations-style view of incident and awareness
 The incident sample is generated locally in `app.py` with a fixed random seed. Awareness figures and recommended actions are illustrative values defined in the same file. No backend service, database, external feed, or authentication is required.
 
 ## Features
-
+   
 - Executive overview with incident, high-risk, response-time, and training metrics
 - Regional exposure tiles with average risk and incident counts
 - Weekly incident trend and severity breakdown
